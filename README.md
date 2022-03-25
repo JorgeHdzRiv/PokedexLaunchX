@@ -11,3 +11,6 @@
 
 ## PokeApi
 [pokeapi](https://pokeapi.co/?ref=hackernoon.com)
+
+## Despliegue en GITHUB
+[pokedexLaunchX](https://jorgehdzriv.github.io/PokedexLaunchX/)
